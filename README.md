@@ -1,4 +1,4 @@
-# grunt-plist
+# grunt-plist [![Build Status](https://travis-ci.org/Team-Hunch/grunt-plist.svg?branch=master)](https://travis-ci.org/Team-Hunch/grunt-plist)
 
 > The best Grunt plugin ever.
 
